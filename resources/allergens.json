@@ -1,0 +1,128 @@
+[
+  {
+    "name": "food-allergies",
+    "translations": {
+      "en": "Food allergies",
+      "fr": "Allergies alimentaires",
+    },
+    "id": 0,
+    "sub": [
+      {
+        "name": "tree-nuts",
+        "generic": true,
+        "plural": true,
+        "translations": {
+          "en": "tree nuts",
+          "fr": "fruits à coques",
+          "th": "T̂n t̄hạ̀w",
+          "ths": "ต้นถั่ว",
+        },
+      },
+      {
+        "name": "peanuts",
+        "generic": true,
+        "translations": {
+          "en": "peanuts",
+          "fr": "cacahuètes",
+          "th": "T̄hạ̀w lis̄ng",
+          "ths": "ถั่วลิสง",
+        }
+      },
+      {
+        "name": "cashew",
+        "generic": true,
+        "translations": {
+          "en": "cashew nuts",
+          "fr": "noix de cajou",
+          "th": "Mĕd mam̀wngh̄imphānt̒",
+          "ths": "เม็ดมะม่วงหิมพานต์",
+        }
+      },
+      {
+        "name": "pistachio",
+        "translations": {
+          "en": "pistachio",
+          "fr": "pistache",
+          "th": "Phis̄ tā cheīy",
+          "ths": "พิสตาเชีย",
+        }
+      },
+      {
+        "name": "milk",
+        "translations": {
+          "en": "cow milk",
+          "fr": "lait de vache",
+          "th": "Nmwạw",
+          "ths": "นมวัว",
+        }
+      },
+      {
+        "name": "goatmilk",
+        "translations": {
+          "en": "goat milk",
+          "fr": "lait de chèvre",
+          "th": "Nm phæa",
+          "ths": "นมแพะ",
+        }
+      },
+      {
+        "name": "sheepmilk",
+        "translations": {
+          "en": "sheep milk",
+          "fr": "lait de brebis",
+          "th": "Nm kæa",
+          "ths": "นมแกะ",
+        }
+      },
+      {
+        "name": "soy",
+        "translations": {
+          "en": "soy",
+          "fr": "soja",
+          "th": "T̄hạ̀wh̄elụ̄xng",
+          "ths": "ถั่วเหลือง",
+        }
+      },
+      {
+        "name": "mustard",
+        "translations": {
+          "en": "mustard",
+          "fr": "moutarde",
+          "th": "Mạs̄tār̒d",
+          "ths": "มัสตาร์ด",
+        }
+      },
+      {
+        "name": "egg",
+        "plural": true,
+        "translations": {
+          "en": "eggs",
+          "fr": "oeufs",
+          "th": "K̄hị̀",
+          "ths": "ไข่",
+        }
+      },
+      {
+        "name": "shellfish",
+        "generic": true,
+        "plural": true,
+        "translations": {
+          "en": "shellfish",
+          "fr": "crustacés",
+          "th": "H̄xy",
+          "ths": "หอย",
+        }
+      },
+      {
+        "name": "shrimps",
+        "plural": true,
+        "translations": {
+          "en": "shrimps",
+          "fr": "crevettes",
+          "th": "Kûng",
+          "ths": "กุ้ง",
+        }
+      },
+    ],
+  },
+]
